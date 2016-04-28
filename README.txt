@@ -1,5 +1,13 @@
-##########################################################################
+############################################################################
 # Data of Gaze-Mouse Coordination in tracing
+
+# This dataset contains data from:
+
+# Deng, S. et al. (2016) Gaze mouse coordinated movements and dependency
+# with coordination demands in tracing. Behaviour & Information Technology.
+# http://dx.doi.org/10.1080/0144929X.2016.1181209
+
+# Data collector: Shujie Deng, e-mail: sdeng@bournemouth.ac.uk
 #
 # 15 Subjects
 # 10 trial sets for each subject
